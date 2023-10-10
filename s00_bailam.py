@@ -27,6 +27,8 @@ sumtwoint(None, None) | None
 #endregion debai
 
 #region bailam
+
 def sumtwoint(i1, i2):
-  return 'todo'
+    tong = (i1 +i2)
+    return tong
 #endregion bailam
